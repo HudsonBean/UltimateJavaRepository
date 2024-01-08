@@ -18,3 +18,8 @@ Try out the code you see in the videos, assigned questions, or that you write. U
 javac Unit01/Topic1_1/Main.java
 java Unit01.Topic1_1.Main
 ```
+
+## Sync-ing your work
+
+* make sure you have committed all your changes ("source control" )
+* 
