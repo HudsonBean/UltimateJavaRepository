@@ -1,6 +1,13 @@
 # Ultimate Java Repository
 
-This template is designed to hold all your notes and code from your AP Computer Science A studies. 
+## Course Calendar
+
+### January
+
+| Mon                                                       | Tue                                                     | Wed                                  | Thu                                          | Fri                 |
+| --------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------ | -------------------------------------------- | ------------------- |
+| **1**                                                     | **2**                                                   | **3** <br> Install Java on computers | **4** <br> Sign up for Github / AP Classroom | **5** <br> SNOW DAY |
+| **8** <br> Videos & MCQs on 1.1 <br> Videos & MCQs on 1.2 | **9** <br> Videos & MCQ on 1.3 <br> Videos & MCQ on 1.4 | **10**                               | **11**                                       | **12**              |
 
 ## Structure
 
@@ -21,5 +28,5 @@ java Unit01.Topic1_1.Main
 
 ## Sync-ing your work
 
-* make sure you have committed all your changes ("source control" )
-* 
+- commit all your changes ("source control" tab on left, enter a short message)
+- click the "Sync" button in the bottom left corner of VS Code
