@@ -5,6 +5,21 @@
 3. [Markdown Quick Reference](#markdown-quick-reference)
 4. [Using Git](#using-git)
 
+## Course Timing / Planning
+
+| Unit                                      | Suggested # blocks |
+| ----------------------------------------- | ------------------ |
+| 1 - Primitive Types                       | 5                  |
+| 2 - Using Objects                         | 7                  |
+| 3 - Boolean Expressions & `if` Statements | 6                  |
+| 4 - Iteration                             | 8                  |
+| 5 - Writing Classes                       | 7                  |
+| 6 - Array                                 | 4                  |
+| 7 - `ArrayList`                           | 6                  |
+| 8 - 2D Array                              | 6                  |
+| 9 - Inheritance                           | 7                  |
+| 10 - Recursion                            | 3                  |
+
 ## Course Calendar
 
 ### January
