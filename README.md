@@ -1,9 +1,11 @@
 # Ultimate Java Repository
 
+1. [Course Timing / Planning](#course-timing--planning)
+1. [Unit Outlines](#unit-outlines)
 1. [Course Calendar](#course-calendar)
-2. [Compiling / Running Java Code](#compiling--running-java-code)
-3. [Markdown Quick Reference](#markdown-quick-reference)
-4. [Using Git](#using-git)
+1. [Compiling / Running Java Code](#compiling--running-java-code)
+1. [Markdown Quick Reference](#markdown-quick-reference)
+1. [Using Git](#using-git)
 
 ## Course Timing / Planning
 
@@ -19,6 +21,16 @@
 | 8 - 2D Array                              | 6                  |
 | 9 - Inheritance                           | 7                  |
 | 10 - Recursion                            | 3                  |
+
+## Unit Outlines
+
+### Unit 1 - Primitive Types
+
+- 1.1 Why Programming? Why Java?
+- 1.2 Variables and Data Types
+- 1.3 Expressions and Assignment Statements
+- 1.4 Compound Assignment Operators
+- 1.5 Casting and Ranges of Variables
 
 ## Course Calendar
 
