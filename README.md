@@ -36,10 +36,10 @@
 
 ### January
 
-| Mon                                                       | Tue                                                     | Wed                                  | Thu                                          | Fri                 |
-| --------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------ | -------------------------------------------- | ------------------- |
-| **1**                                                     | **2**                                                   | **3** <br> Install Java on computers | **4** <br> Sign up for Github / AP Classroom | **5** <br> SNOW DAY |
-| **8** <br> Videos & MCQs on 1.1 <br> Videos & MCQs on 1.2 | **9** <br> Videos & MCQ on 1.3 <br> Videos & MCQ on 1.4 | **10**                               | **11**                                       | **12**              |
+| Mon                                                       | Tue                 | Wed                                                      | Thu                                          | Fri                 |
+| --------------------------------------------------------- | ------------------- | -------------------------------------------------------- | -------------------------------------------- | ------------------- |
+| **1**                                                     | **2**               | **3** <br> Install Java on computers                     | **4** <br> Sign up for Github / AP Classroom | **5** <br> SNOW DAY |
+| **8** <br> Videos & MCQs on 1.1 <br> Videos & MCQs on 1.2 | **9** <br> SNOW DAY | **10** <br> Videos & MCQ on 1.3 <br> Videos & MCQ on 1.4 | **11**                                       | **12**              |
 
 ## Compiling / Running Java Code
 
