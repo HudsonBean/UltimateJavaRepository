@@ -6,6 +6,7 @@ public class Main {
     // Your code goes here
     System.out.println("Hello " + b + "! Do you want to play to a game?\n:");
     System.err.println();
+    System.err.println("Test");
     
   }
   
