@@ -12,6 +12,7 @@ public class StringMethods {
 
     public static boolean endsLy(String str) {
         String temp = str.substring(str.length()-2, str.length());
+    
         return temp.equals("ly");
     }
 
