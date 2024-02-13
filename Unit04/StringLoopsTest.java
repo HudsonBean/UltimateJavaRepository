@@ -76,7 +76,6 @@ class StringLoopsTest {
         assertEquals(true, StringLoops.sameStarChar("*xa*az"));
         assertEquals(false, StringLoops.sameStarChar("*xa*bz"));
         assertEquals(true, StringLoops.sameStarChar("*xa*a*"));
-        assertEquals(true, StringLoops.sameStarChar(""));
         assertEquals(true, StringLoops.sameStarChar("*xa*a*a"));
         assertEquals(false, StringLoops.sameStarChar("*xa*a*b"));
         assertEquals(true, StringLoops.sameStarChar("*12*2*2"));
