@@ -1,31 +1,60 @@
 public class Debug {
     public static void main(String[] args) {
-       String str = "*xa*bz";
-       String a = str.toLowerCase();
-       // Loop through every character
-       for (int i = 0; i < a.length(); i++) {
+       String str = "*stringy";
+        String a = str.toLowerCase();
+        String result = "";
+        boolean doLast = true;
+        for (int i = 0; i < str.length(); i++) {
+            // Loop through every character
+            // Check if it's a star
             String currentCharacter = a.substring(i, i+1);
-            // Check for asterick
             if (currentCharacter.equals("*")) {
-                // Asterick found; find its before and after and check
-                // Before character
-                if (i-1 < 0) {
+                // Is a star
+                if (i == 0) {
+                    // First index
+                    // No left character
+                    // Move iterator to the next section
+                    System.err.println("Star is first");
+                    i = 2;
+                }
+                // Check if last?
+                if (i == a.length()) {
+                    // Last index
+                    // No right character
+                    // However there is still a right
+                    // Remove before letter since it's already in the result
+                    System.err.println("Star is last");
+                    result = result.substring(0, result.length()-1);
+                    break;
+                }
+                // Remove last since it's already in
+                // Check if last exists
+                if (result.length()-1 < 0) {
                     // Out of range
                     continue;
                 }
-                String beforeCharacter = a.substring(i-1,i);
-                // After character
+                if (doLast) {
+                    result = result.substring(0, result.length()-1);
+                }
+                // Now let's check if right is also a star
+                // Check if next exists
                 if (i+2 > a.length()) {
                     // Out of range
+                    break;
+                }
+                if (a.substring(i+1, i+2).equals("*")) {
+                    // Next is also star so we'll handle that on next loop
+                    doLast = false;
                     continue;
+                } else {
+                    // Skip next character
+                    i++;
                 }
-                String afterCharacter = a.substring(i+1, i+2);
-                // Full check
-                if (beforeCharacter.equals(afterCharacter)) {
-                    // Same
-                    
-                }
+            } else {
+                doLast = true;
+                result += currentCharacter;
             }
-       }
+        }
+        System.out.println(result);
     }
 }
