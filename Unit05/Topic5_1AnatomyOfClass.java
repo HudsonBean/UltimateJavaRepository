@@ -4,4 +4,7 @@ public class Topic5_1AnatomyOfClass {
     public static void main(String[] args) {
         
     }
+    static class hello {
+        
+    }
 }
