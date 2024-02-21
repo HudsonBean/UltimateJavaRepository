@@ -30,7 +30,26 @@ Did poorly on this quiz but it was because I struggle with following the logic o
 
 ## 5.4 - Accessor Methods
 
+Nothing new here I already know how to define methods in a class and how to make getters and setters within Java.
+
 ## 5.5 - Mutator Methods
+
+Same thing here nothing new I know about setters and how to affect private variables with them 👍
+
+```java
+public class Test {
+    private int num;
+    public Test(int n) {
+        num = n;
+    }
+    public int getter() {
+        return num;
+    }
+    public void setter(int n) {
+        num = n;
+    }
+}
+```
 
 ## 5.6 - Writing Methods
 
