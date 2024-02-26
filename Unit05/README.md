@@ -53,7 +53,28 @@ public class Test {
 
 ## 5.6 - Writing Methods
 
+Nothing new here I know about writing methods they get cooler when I add the static keyword in but esentially they give functionality to objects for example:
+
+```java
+class Car {
+    private int mileage;
+    public Car() {
+        mileage = 0;
+    }
+    public String Drive(int x) {
+        mileage+=x;
+        return "You drove: " + x + " miles! Your current mileage is: " + mileage;
+    }
+}
+```
+
 ## 5.7 - Static Variables and Methods
+
+Statics are a little bit new but I understand them now. I think of them as like a shared data between the class instances. So for example if we have a class with a `private static int greatestNumber` now throughout all my objects/instances I know what the greatest number is for all of them. I am excieted to see the better use case is in the future.
+
+On the other hand the final keyword just means a variable can only be set once. Pretty easy and self explanatory to understand.
+
+I am not sure if other languages offer things similiar i've uses statics in some C languages but never understood the keyword.
 
 ## 5.8 - Scope and Access
 
