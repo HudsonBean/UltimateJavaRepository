@@ -78,6 +78,10 @@ I am not sure if other languages offer things similiar i've uses statics in some
 
 ## 5.8 - Scope and Access
 
+Nothing new here I know about the scopes of stuff in the Java script. This is pretty much universal the only slight change between languages is the syntax and for example: in Python you change the scope by indenting opposed to in Java you use `{}` to set scopes of things.
+
 ## 5.9 - `this` Keyword
+
+Nothing new here either the `this` or `self` keyword is my favorite keyword in all of programming, as it is the coolest thing in my opinion when getting into the nitty gritty of Object Oriented Programming and making some really cool stuff.
 
 ## 5.10 - Ethical and Social Implications of Computing Systems
