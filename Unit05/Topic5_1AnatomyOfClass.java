@@ -5,6 +5,5 @@ public class Topic5_1AnatomyOfClass {
         
     }
     static class hello {
-        
     }
 }
