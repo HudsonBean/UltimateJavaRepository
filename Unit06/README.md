@@ -33,4 +33,14 @@ Nothing new here either we breifly discussed transversing 2 dimensional arrays (
 
 ## 6.3 - Enhanced for Loop for Arrays
 
+Nothing new here I am excited to get into arrays with Objects and hastables with objects it'd be cool to do something like:
+
+```java
+for (Student object : students) {
+    print(object.getAge());
+}
+```
+
 ## 6.4 - Developing Algorithms Using Arrays
+
+Nothing new here just combining the knowledge of arrays and algorithims.
