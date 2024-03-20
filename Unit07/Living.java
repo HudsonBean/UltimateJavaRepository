@@ -1,10 +1,10 @@
 package Unit07;
 
-public class Animal {
+public class Living {
     private int age = (int) ((Math.random()*100)+1);
     private String name;
     private double health = 100.0;
-    public Animal (String name) {
+    public Living (String name) {
         this.name = name;
     }
 
