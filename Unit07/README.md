@@ -9,6 +9,8 @@ Same thing again did learn about interfaces and implementing the comparable & it
 
 ## 7.2 - `ArrayList` Methods
 
+Nothing new here may be a tid bit confusing when following logic on how `.add(n);` adds to the end but `.add(1, n);` places in the middle and moves other objects' indexes up.
+
 ## 7.3 - Traversing `ArrayList`s
 
 ## 7.4 - Developing Algorithms Using `ArrayList`s
