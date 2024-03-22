@@ -16,6 +16,9 @@ public class Living {
         System.out.println("Ow!");
         this.health = 0;
     }
+    public void makeNoise() {
+        System.err.println("Yeah!");
+    }
     public void takeDamage(double damage) {
         this.health-=damage;
     }

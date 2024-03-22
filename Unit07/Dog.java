@@ -1,12 +1,12 @@
 package Unit07;
 // Imports
-import Unit07.Living;
 
-public class Dog extends Living {
+public class Dog extends Animal {
     public Dog(String name) {
         super(name);
     }
-    public void bark() {
+    public void makeNoise() {
+        super.makeNoise();
         System.out.println("Roof!");
     }
 }

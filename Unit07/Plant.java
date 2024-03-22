@@ -5,6 +5,7 @@ public class Plant extends Living {
         super(name);
     }
     public void eat() {
+        super.eat();
         System.out.println("MMM Yummy sun!");
     }
 }
