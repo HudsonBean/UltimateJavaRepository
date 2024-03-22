@@ -35,6 +35,10 @@ ArrayList<Integer> nums = new ArrayList<>() {{
 
 ## 7.5 - Searching
 
+Nothing crazy new here again like I stated previously very similiar to searching and sorting arrays.
+
 ## 7.6 - Sorting
+
+Nothing crazy new here again like I stated previously very similiar to searching and sorting arrays.
 
 ## 7.7 - Ethical Issues Around Data Collection
