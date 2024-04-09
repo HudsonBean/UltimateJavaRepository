@@ -97,6 +97,16 @@
 - [8.1 - 2D Arrays](Unit08/Topic8_1_2DArrays.java)
 - [8.2 - Traversing 2D Arrays](Unit08/Topic8_2Traversing2DArrays.java)
 
+### [Unit 9 - Inheritance](Unit09/README.md)
+
+- [9.1 - Creating Superclasses and Subclasses](Unit09/Topic9_1CreatingSuperclassesAndSubclasses.java)
+- [9.2 - Writing Constructors for Subclasses](Unit09/Topic9_2WritingConstructorsForSubclasses.java)
+- [9.3 - Overriding Methods](Unit09/Topic9_3OverridingMethods.java)
+- [9.4 - super Keyword](Unit09/Topic9_4SuperKeyword.java)
+- [9.5 - Creating References Using Inheritance Hierarchies](Unit09/Topic9_5CreatingReferencesUsingInheritanceHierarchies.java)
+- [9.6 - Polymorphism](Unit09/Topic9_6Polymorphism.java)
+- [9.7 - Object Superclass](Unit09/Topic9_7ObjectSuperclass.java)
+
 ## Course Calendar
 
 | Mon                                                                                                                         | Tue                                                                                 | Wed                                                          | Thu                                                                                                                                                                  | Fri                                                                   |
