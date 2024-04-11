@@ -67,6 +67,33 @@ public Child {
 
 ## 9.5 - Creating References Using Inheritance Hierarchies
 
+Big take aways from this lesson is `general = specific` but `specific != general`.
+
 ## 9.6 - Polymorphism
+
+Polymorphism is pretty easy me and you went over it a while ago. Just changing a function in a subclass.
+
+Parent:
+
+```Java
+public class Parent {
+    private int a = 5;
+
+    public int getInt() {
+        return a;
+    }
+}
+```
+
+Child:
+
+```Java
+public class Child {
+    public int getInt() {
+        System.out.println("No ima do my own thing!");
+        return 102012054;
+    }
+}
+```
 
 ## 9.7 - Object Superclass
