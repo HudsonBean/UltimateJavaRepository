@@ -97,3 +97,5 @@ public class Child {
 ```
 
 ## 9.7 - Object Superclass
+
+Nothing hard here either I learned further about the principles of using polymorphism and if we should use instanceof at all and did some further research on that with you. [See scratch file](../Scratch.java)
