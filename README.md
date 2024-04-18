@@ -107,6 +107,11 @@
 - [9.6 - Polymorphism](Unit09/Topic9_6Polymorphism.java)
 - [9.7 - Object Superclass](Unit09/Topic9_7ObjectSuperclass.java)
 
+### [Unit 10 - Recursion](Unit10/README.md)
+
+- [10.1 - Recursion](Unit10/Topic10_1Recursion.java)
+- [10.2 - Recursive Searching and Sorting](Unit10/Topic10_2RecursiveSearchingAndSorting.java)
+
 ## Course Calendar
 
 | Mon                                                                                                                         | Tue                                                                                 | Wed                                                          | Thu                                                                                                                                                                  | Fri                                                                   |
